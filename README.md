@@ -13,4 +13,4 @@ Projektet är ett Maven-projekt. Öppna mappen i IntelliJ IDEA, så känns det i
 | `uml/` | Ditt klassdiagram från Astah (`.asta` och en exporterad bild) |
 | `answers/` | Dina svar på del A, B och D |
 
-Kör ett program med den gröna pilen bredvid `void main()` i IntelliJ. Gör en commit efter varje steg i del C.
+Gör en commit efter varje steg i del C.
