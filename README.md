@@ -10,7 +10,7 @@ Projektet är ett Maven-projekt. Öppna mappen i IntelliJ IDEA, så känns det i
 | `src/main/java/` | `Card` och programmen `B1`–`B4` för del B. Förutsäg utskriften **innan** du kör dem. |
 | `src/main/java/` | Modellklassen `Zone`. Här skapar du `TravelCard`, `Trip` och `Main` (del C). |
 | `src/test/java/` | Plats för tester (används inte i den här uppgiften) |
-| `uml/` | Ditt klassdiagram från Astah (`.asta` och en exporterad bild) |
+| `uml/` | Ditt klassdiagram från Astah (`.asta`) eller Mermaid (`.mmd`), och en exporterad bild |
 | `answers/` | Dina svar på del A, B och D |
 
 Kör ett program med den gröna pilen bredvid `void main()` i IntelliJ. Gör en commit efter varje steg i del C.
